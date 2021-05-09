@@ -1,22 +1,32 @@
-{
-  "notesArray": [
-    {
-      "id": "0",
-      "title": "Test Title",
-      "text": "Test text"
-    },
-    {
-      "id": "1",
-      "title": "Test Title1",
-      "text": "Test text1"
-    },
-    {
-      "id": "2"
-    },
-    {
-      "title": "Test Title2",
-      "text": "Test text2",
-      "id": "3"
-    }
-  ]
-}
+[
+  {
+    "id": "0",
+    "title": "Test Title",
+    "text": "Test text"
+  },
+  {
+    "title": "aesdfd",
+    "text": "aefsd",
+    "id": "1"
+  },
+  {
+    "title": "eee",
+    "text": "eeee",
+    "id": "2"
+  },
+  {
+    "title": "asfd",
+    "text": "aesfsdfas",
+    "id": "3"
+  },
+  {
+    "title": "asfda",
+    "text": "efeeeefe",
+    "id": "9999a2bb-d092-4b68-a47d-8e84dbbf7eae"
+  },
+  {
+    "title": "asdfsdaf",
+    "text": "fefefefe",
+    "id": "4c880069-3f62-4357-b4f6-03fb2a28a4e2"
+  }
+]
